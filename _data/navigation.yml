@@ -13,10 +13,10 @@ main:
     url: https://scholar.google.com/citations?user=odAXYDgAAAAJ&hl=en&oi=ao
 
   - title: "Talks"
-    url: /talks/    
+    #url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    #url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -24,15 +24,14 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    children:
-      - title: "English CV"
-        url: /files/CV_SYED_anglais.pdf
-      - title: "French CV"
-        url: /files/CV_SYED_francais.pdf
+  - title: "CV (EN)"
+    url: /files/CV_SYED_anglais.pdf
+
+  - title: "CV (FR)"
+    url: /files/CV_SYED_francais.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
