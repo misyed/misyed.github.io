@@ -12,10 +12,10 @@ main:
     #url: /publications/
     url: https://scholar.google.com/citations?user=odAXYDgAAAAJ&hl=en&oi=ao
 
-  - title: "Talks"
+  #- title: "Talks"
     #url: /talks/    
 
-  - title: "Teaching"
+  #- title: "Teaching"
     #url: /teaching/    
     
   #- title: "Portfolio"
