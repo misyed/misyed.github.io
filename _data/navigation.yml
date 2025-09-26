@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: "#"
   
-  - title: "Google Scholar"
-    url: https://scholar.google.com/citations?user=odAXYDgAAAAJ&hl=en&oi=ao
+  #- title: "Google Scholar"
+  #  url: https://scholar.google.com/citations?user=odAXYDgAAAAJ&hl=en&oi=ao
 
   - title: "Talks"
     url: /talks/    
