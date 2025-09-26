@@ -20,3 +20,10 @@ I regularly publish in international conferences and journals, and I enjoy shari
 * Wireless networks and measurements
 * Network performance analysis and optimisation
 * Quality of Service in LEO satellite networks
+
+## Beyond Resarch
+I have always believed life is better with a laugh. I value humour — with a particular appreciation for the wit and charm of British humour.
+
+When I am not working on research, you will often find me following cricket or football — especially the English Premier League. I also enjoy following tennis and Formula 1 whenever possible.
+
+Above all, I strive to inspire and support others, offering encouragement and a reminder that even in life’s most challenging moments, there is always hope. I hope to share a little light, helping people see that struggles are not the end, and that brighter days and new possibilities are always within reach.
