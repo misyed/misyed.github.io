@@ -39,7 +39,7 @@ Dissertations
 * 2012 - 2012: Research Study in Achieving LTE Goals by Overcoming Physical Layer and Network Challenges (Distinction)
   * Masters' thesis carried out at University of South Wales (previously University of Glamorgan), Treforest, Wales, United Kingdom.
 
-* 2012 - 2012: Design and Simulation of OFDM Transceiver in MATLAB
+* 2010 - 2010: Design and Simulation of OFDM Transceiver in MATLAB
   * B.Sc. thesis carried out at Bahria University, Islamabad, Pakistan.
   
 
