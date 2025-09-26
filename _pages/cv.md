@@ -20,20 +20,20 @@ Employment
 Education
 ======
 * Ph.D. Computer Science, Sorbonne Université, Paris, France, 2023
-* MSc ICT Innovation (dual degree program), EIT Digital Master School, 2019
-  * Frist year at Technische Universität, Berlin, Germany, 2018
-  * Second year at Sorbonne Université, Paris, France, 2019
-* M.Sc. Mobile and Satellite Communications, University of South Wales (previously University of Glamorgan), Treforest, Wales, United Kingdom, 2012
-* B.Sc. Electrical (Telecommunication) Engineering, Bahria University, Islamabad, Pakistan, 2010
+* [M.Sc. Internet Technology and Architecture](https://www.smartcertificate.com/SmartDiploma/?2ZA4%2bAnsMoKG7C5OaMXYO487MGSLFXIJnWjW8h%2fcro6khXzbRkPIYG2IjpaPx4Yj#/) (dual degree program), EIT Digital Master School, 2019
+  * First year at Technische Universität, Berlin, Germany, 2018 - sehr gut
+  * Second year at Sorbonne Université, Paris, France, 2019 - mention bien
+* M.Sc. Mobile and Satellite Communications, University of South Wales (previously University of Glamorgan), Treforest, Wales, United Kingdom, 2012 - merit
+* B.Sc. Electrical (Telecommunication) Engineering, Bahria University, Islamabad, Pakistan, 2010 - silver medal
 
 
 Dissertations
 ======
-* Sep 2022 - Aug 2023:  Wireless passive measurements: tool, redundancy, measurements, and analyses
+* Sep 2022 - Aug 2023:  [Wireless passive measurements: tool, redundancy, measurements, and analyses](https://theses.hal.science/tel-04258062)
   * Ph.D. dissertation as a part of ANR-MITIK project.
   * Under the supervision of Dr. Anne FLADENMULLER and Dr. Marcelo DIAS DE AMORIM
 
-* Mar 2019 - Jul 2019: The Challenges of Trace-Driven Wi-Fi Emulation.
+* Mar 2019 - Jul 2019: [The Challenges of Trace-Driven Wi-Fi Emulation](https://hal.science/hal-02468864v2)
   * Masters' thesis carried out at Institut National de Recherche en Informatique et en Automatique (INRIA), Paris, France.
 
 * 2012 - 2012: Research Study in Achieving LTE Goals by Overcoming Physical Layer and Network Challenges (Distinction)
