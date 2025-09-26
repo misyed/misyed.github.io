@@ -43,22 +43,23 @@ Dissertations
   * B.Sc. thesis carried out at Bahria University, Islamabad, Pakistan.
   
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+{% comment %}
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
   
-#Awards
-#======
-#  <ul>
-#    {% include grants.html %}</ul>
+Awards
+======
+  <ul>
+    {% include grants.html %}</ul>
   
 
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endcomment %}
