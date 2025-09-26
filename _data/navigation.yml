@@ -27,13 +27,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: "#"
-    children:
-      -title: "CV (EN)"
-      url: /files/CV_SYED_anglais.pdf
-
-  - title: "CV (FR)"
-    url: /files/CV_SYED_francais.pdf
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
