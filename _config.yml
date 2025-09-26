@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-#title                    : "Imran SYED's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Imran SYED"
 description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
