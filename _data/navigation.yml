@@ -24,11 +24,13 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV (EN)"
-    url: /files/CV_SYED_anglais.pdf
-
-  - title: "CV (FR)"
-    url: /files/CV_SYED_francais.pdf
+  - title: "Curriculum Vitae"
+    url: "#" # Use '#' or another placeholder if the parent link shouldn't go anywhere
+    children:
+      - title: "CV (English)"
+        url: /files/CV_SYED_anglais.pdf
+      - title: "CV (Français)"
+        url: /files/CV_SYED_francais.pdf
     
   # - title: "CV"
   #   url: /cv-json/
