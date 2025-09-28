@@ -356,3 +356,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+publication_category:
+  - ["journal", {title: "Journal Articles"}]
+  - ["conference", {title: "Conference Proceedings"}]
+  - ["working-paper", {title: "Working Papers"}]
