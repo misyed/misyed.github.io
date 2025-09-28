@@ -2,7 +2,7 @@
 title: "Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy"
 collection: publications
 permalink: /publication/AdHocNet-journal
-#excerpt: 'Delay is a primary indicator of transit and we used GTFS to measure that. It changed, a lot.'
+excerpt: 'Redundancy is necessary for wireless passive measurements.'
 date: 2023-12-01
 venue: 'Ad Hoc Networks Journal (Elsevier)'
 paperurl: ' https://doi.org/10.1016/j.adhoc.2023.10328'
