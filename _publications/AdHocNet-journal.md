@@ -1,9 +1,9 @@
 ---
 title: "Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy"
 collection: publications
-permalink: /publications/AdHocNet-journal
+permalink: /publication/AdHocNet-journal
 #excerpt: 'Delay is a primary indicator of transit and we used GTFS to measure that. It changed, a lot.'
-date: 2020-02-01
+date: 2023-12-01
 venue: 'Ad Hoc Networks Journal (Elsevier)'
 paperurl: ' https://doi.org/10.1016/j.adhoc.2023.10328'
 citation: 'M. I. Syed, A. Fladenmuller, and M. Dias de Amorim. “Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy”. In: Ad Hoc Networks (2023), p. 103287. issn: 1570-8705. doi: https://doi.org/10.1016/j.adhoc.2023.10328'
