@@ -90,7 +90,14 @@ publication_category:
   working_papers:
     title: 'Preprints/Working Papers'
   technical_reports:
-    title: 'Technical Reports'    
+    title: 'Technical Reports'   
+
+# Talks Category - The following the list of talks categories and their headings
+talks_category:
+  invited:
+    title: 'Invited Talks'
+  conference:
+    title: 'Conference Presentations'   
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
