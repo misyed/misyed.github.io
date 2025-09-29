@@ -92,8 +92,8 @@ publication_category:
   technical_reports:
     title: 'Technical Reports'   
 
-# Talks Category - The following the list of talks categories and their headings
-talks_category:
+# Talk Category - The following the list of talk categories and their headings
+talk_category:
   invited:
     title: 'Invited Talks'
   conference:
