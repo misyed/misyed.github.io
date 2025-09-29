@@ -356,11 +356,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
