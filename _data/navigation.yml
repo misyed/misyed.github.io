@@ -15,7 +15,7 @@ main:
   #  url: https://scholar.google.com/citations?user=odAXYDgAAAAJ&hl=en&oi=ao
 
   - title: "Talks"
-    url: "#"    
+    url: "/talks/"    
 
   - title: "Teaching"
     url: "#"    
