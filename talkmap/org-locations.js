@@ -13,5 +13,20 @@ var addressPoints = [
     "Towards mobility: Evaluation of wireless devices through passive measurements<br />Self-Organizing Future Ubiquitous Networks (FUN) team, INRIA, Lille; Lille, France",
     50.6365654,
     3.0635282
+  ],
+  [
+    "Navigating the LEO Network: A Routing Optimisation Approach<br />12th  International Symposium on Networks, Computers and Communications (ISNCC'25); Noisy-le-Grand, France",
+    48.8492238,
+    2.5524906
+  ],
+  [
+    "Jusqu\u2019o\u00f9 la redondance peut aider dans la capture passive de trafic Wi-Fi<br />CORES 2022 \u2013 7\u00e8me Rencontres Francophones sur la Conception de Protocoles, l\u2019\u00c9valuation de Performance et l\u2019Exp\u00e9rimentation des R\u00e9seaux de Communication; Saint-R\u00e9my-L\u00e8s-Chevreuse, France",
+    48.7054888,
+    2.071109
+  ],
+  [
+    "RSSI: Lost and Alone, a Case for Redundancy<br />2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob); Thessaloniki, Greece",
+    40.6403167,
+    22.9352716
   ]
 ];
