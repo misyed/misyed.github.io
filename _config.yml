@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-4787-1316"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -78,6 +78,14 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  gitlabs:
+  - url  : "https://gitlab.lip6.fr"
+    user : "syed"
+    label: "LIP6 GitLab"
+  - url  : "https://gitlab.isae-supaero.fr/"
+    user : "i.syed"
+    label: "ISAE-SUPAERO GitLab"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

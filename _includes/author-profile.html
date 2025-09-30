@@ -82,6 +82,15 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
+      {% if author.gitlabs %}
+        {% for account in author.gitlabs %}
+          <li>
+            <a href="{{ account.url }}/{{ account.user }}" target="_blank">
+              <i class="fab fa-fw fa-gitlab icon-pad-right" aria-hidden="true"></i>{{ account.label }}
+            </a>
+          </li>
+        {% endfor %}
+      {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
