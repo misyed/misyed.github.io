@@ -15,9 +15,9 @@ author_profile: true
 
 {% if categories %}
   {% for category in categories %}
-    {% assign by_category = site.publications | where: "category", category[0] %}
-    {% assign by_categories = site.publications | where: "categories", category[0] %}
-    {% assign filtered_posts = by_category | concat: by_categories | sort: "date" | reverse %}
+    {% assign title_shown = false %}
+    {% assign filtered_posts = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+    {% assign years = filtered_posts | map: "date" | map: "date" %}
     
     {% if filtered_posts.size > 0 %}
       <h2>{{ category[1].title }}</h2><hr />
