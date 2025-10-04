@@ -6,7 +6,7 @@ excerpt: "Assessment of the inconsistency of RSSI values in an experimental setu
 date: 2022-11-15
 venue: "18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
 paperurl: "https://doi.org/10.1109/WiMob55322.2022.9941697"
-citation: "M. I. Syed, A. Fladenmuller and M. Dias De Amorim, "RSSI: Lost and Alone, a Case for Redundancy," 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Thessaloniki, Greece, 2022, pp. 184-189, doi: 10.1109/WiMob55322.2022.9941697."
+citation: "M. I. Syed, A. Fladenmuller and M. Dias De Amorim, “RSSI: Lost and Alone, a Case for Redundancy,” 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Thessaloniki, Greece, 2022, pp. 184-189, doi: 10.1109/WiMob55322.2022.9941697."
 category: conferences
 ---
 

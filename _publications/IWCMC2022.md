@@ -6,7 +6,7 @@ excerpt: "Enviromnemt has an impact on wireless passive measurements."
 date: 2022-07-19
 venue: "International Wireless Communications and Mobile Computing (IWCMC)"
 paperurl: "https://doi.org/10.1109/IWCMC55113.2022.9824970"
-citation: "M. I. Syed, A. Fladenmuller and M. Dias De Amorim, "Assessing the Completeness of Passive Wi-Fi Traffic Capture," 2022 International Wireless Communications and Mobile Computing (IWCMC), Dubrovnik, Croatia, 2022, pp. 961-966, doi: 10.1109/IWCMC55113.2022.9824970."
+citation: "M. I. Syed, A. Fladenmuller and M. Dias De Amorim, “Assessing the Completeness of Passive Wi-Fi Traffic Capture,” 2022 International Wireless Communications and Mobile Computing (IWCMC), Dubrovnik, Croatia, 2022, pp. 961-966, doi: 10.1109/IWCMC55113.2022.9824970."
 category: conferences
 ---
 
