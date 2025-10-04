@@ -14,4 +14,5 @@ PyPal is an updated and Python version of WiPal, which was part of Thomas Clavei
 same time and to be able to merge them by removing the duplicate frames. The process is composed of five modes: (i) identifying reference frames, (ii) extraction of unique frames, (iii) intersection of unique reference frames, (iv) synchronization and (v) merging.
 
 [1] T. Claveirole, “Activites Wi-Fi en environnement ouvert : outils, mesures et analyses,” Ph.D. dissertation, 2010. [Online]. Available: http://www.theses.fr/2010PA066020.
+
 [2] T. Claveirole and M. Dias de Amorim, “WiPal: Efficient offline merging of IEEE 802.11 traces,” SIGMOBILE Mob. Comput. Commun. Rev., vol. 13, no. 4, p. 39–46, mar 2010.
