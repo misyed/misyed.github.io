@@ -1,7 +1,7 @@
 ---
 title: "PyPal: Wi-Fi Trace Synchronization and Merging Python Tool"
 collection: publications
-permalink: /publication/IWCMC2024
+permalink: /publication/PyPal
 excerpt: "A Wi-Fi trace synchronization tool."
 date: 2022-03-23
 venue: ""
