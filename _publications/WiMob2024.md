@@ -6,7 +6,7 @@ excerpt: "A gateway selection algorithm for firefighter interventions."
 date: 2024-12-04
 venue: "20th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)"
 paperurl: "https://doi.org/10.1109/WiMob61911.2024.10770457"
-citation: "K. Ouali, T. -M. -T. Nguyen, M. I. Syed, A. Fladenmuller, B. Kervella and N. Peugnet, "Gateway Selection in 5G/Wi-Fi Architecture: A Fire Emergency Case Study," 2024 20th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Paris, France, 2024, pp. 520-525, doi: 10.1109/WiMob61911.2024.10770457."
+citation: "K. Ouali, T. -M. -T. Nguyen, M. I. Syed, A. Fladenmuller, B. Kervella and N. Peugnet, “Gateway Selection in 5G/Wi-Fi Architecture: A Fire Emergency Case Study,” 2024 20th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Paris, France, 2024, pp. 520-525, doi: 10.1109/WiMob61911.2024.10770457."
 category: conferences
 ---
 
