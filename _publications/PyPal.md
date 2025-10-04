@@ -5,8 +5,8 @@ permalink: /publication/IWCMC2024
 excerpt: "A Wi-Fi trace synchronization tool."
 date: 2022-03-23
 venue: ""
-paperurl: "https://hal.science/hal-03618014v4"
-citation: "M. I. Syed, A. Fladenmuller, M. Dias de Amorim. PyPal: Wi-Fi Trace Synchronization and Merging Python Tool. [Technical Report] LIP6 UMR 7606, UPMC Sorbonne Université, France. 2022. ⟨hal-03618014v4⟩"
+paperurl: "https://hal.science/hal-03618014v5"
+citation: "M. I. Syed, A. Fladenmuller, M. Dias de Amorim. PyPal: Wi-Fi Trace Synchronization and Merging Python Tool. [Technical Report] LIP6 UMR 7606, UPMC Sorbonne Université, France. 2022. ⟨hal-03618014v5⟩"
 category: technical_reports
 ---
 
