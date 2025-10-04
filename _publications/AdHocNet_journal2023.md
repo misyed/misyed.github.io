@@ -2,11 +2,11 @@
 title: "Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy"
 collection: publications
 permalink: /publication/AdHocNet_journal2023
-excerpt: 'Redundancy is necessary for wireless passive measurements.'
+excerpt: "Redundancy is necessary for wireless passive measurements."
 date: 2023-12-01
-venue: 'Ad Hoc Networks Journal (Elsevier)'
-paperurl: 'https://doi.org/10.1016/j.adhoc.2023.103287'
-citation: 'M. I. Syed, A. Fladenmuller, and M. Dias de Amorim. “Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy”. In: Ad Hoc Networks (2023), p. 103287. issn: 1570-8705. doi: https://doi.org/10.1016/j.adhoc.2023.10328'
+venue: "Ad Hoc Networks Journal (Elsevier)"
+paperurl: "https://doi.org/10.1016/j.adhoc.2023.103287"
+citation: "M. I. Syed, A. Fladenmuller, and M. Dias de Amorim. “Unity is strength: Improving Wi-Fi passive measurements through sniffer redundancy”. In: Ad Hoc Networks (2023), p. 103287. issn: 1570-8705. doi: https://doi.org/10.1016/j.adhoc.2023.10328"
 category: manuscripts
 ---
 
