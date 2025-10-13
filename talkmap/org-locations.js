@@ -20,6 +20,11 @@ var addressPoints = [
     2.5524906
   ],
   [
+    "How much can Sniffer Redundancy Improve Wi-Fi Traffic?<br />IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), 2022; Helsinki, Finland",
+    60.1698897,
+    24.9384719
+  ],
+  [
     "Jusqu\u2019o\u00f9 la redondance peut aider dans la capture passive de trafic Wi-Fi<br />CORES 2022 \u2013 7\u00e8me Rencontres Francophones sur la Conception de Protocoles, l\u2019\u00c9valuation de Performance et l\u2019Exp\u00e9rimentation des R\u00e9seaux de Communication; Saint-R\u00e9my-L\u00e8s-Chevreuse, France",
     48.7054888,
     2.071109
