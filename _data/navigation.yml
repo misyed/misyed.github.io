@@ -25,12 +25,12 @@ main:
         
   - title: "Blog Posts"
     url: "#"
-    
-  - title: "CV"
-    url: /cv/
   
   - title: "Projects"
     url: "/projects/"
+
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
