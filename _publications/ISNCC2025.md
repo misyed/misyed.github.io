@@ -3,8 +3,8 @@ title: "Navigating the LEO Network: A Routing Optimisation Approach"
 collection: publications
 permalink: /publication/ISNCC2025
 excerpt: "Routing optimisation in LEO satellite networks."
-date: 2025-10-30
-venue: "12th International Symposium on Networks, Computers and Communications (ISNCC"25)"
+date: 2025-10-27
+venue: "12th International Symposium on Networks, Computers and Communications (ISNCC'25)"
 paperurl: "TBA"
 citation: "TBA"
 category: conferences
