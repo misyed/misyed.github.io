@@ -2,11 +2,11 @@
 title: "Navigating the LEO Network: A Routing Optimisation Approach"
 collection: publications
 permalink: /publication/ISNCC2025
-excerpt: 'Routing optimisation in LEO satellite networks.'
-date: 2025-10-1
-venue: '12th  International Symposium on Networks, Computers and Communications (ISNCC'25)'
-paperurl: ''
-citation: ''
+excerpt: "Routing optimisation in LEO satellite networks."
+date: 2025-11-21
+venue: "12th International Symposium on Networks, Computers and Communications (ISNCC'25)"
+paperurl: "https://doi.org/10.1109/ISNCC66965.2025.11250445"
+citation: "A. de Guibert, M. I. Syed, O. Hotescu and J. Lacan, “Navigating the LEO Network: A Routing Optimisation Approach,” 2025 International Symposium on Networks, Computers and Communications (ISNCC), Paris, France, 2025, pp. 1-8, doi: 10.1109/ISNCC66965.2025.11250445."
 category: conferences
 ---
 
